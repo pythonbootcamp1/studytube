@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(drf-backend-dev-process)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
